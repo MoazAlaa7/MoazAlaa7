@@ -4,7 +4,7 @@
 - 🎓 Undergraduate student pursuing Bachelor's degree in Computer Science.
 - 👨‍💻 Tech Enthusiast, I'm always eager to learn new technologies, and understand how things work under the hood.
 - 🌐 I’m currently learning Web development (MERN stack)
-- ⚡ I like clean code, sports, and video games
+- ⚡ I like sports, video games, and definetly clean code 😁😐
 
 ## 🤝 Contacts
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazalaa4727@gmail.com)
