@@ -3,7 +3,7 @@
 
 - 🎓 Undergraduate student pursuing Bachelor's degree in Computer Science.
 - 👨‍💻 Tech Enthusiast, I'm always eager to learn new technologies, and understand how things work under the hood.
-- 🌐 I’m currently learning Web development (MERN stack)
+- 🌐 I’m currently studying SQL and Web development.
 - ⚡ I like sports, video games, and definetly clean code 😁😐
 
 ## 🤝 Contacts
