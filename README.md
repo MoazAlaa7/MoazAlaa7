@@ -3,7 +3,7 @@
 
 - 🎓 Undergraduate student pursuing Bachelor's degree in Computer Science.
 - 👨‍💻 Tech Enthusiast, I'm always eager to learn new technologies, and understand how things work under the hood.
-- 🌐 I’m currently studying SQL and Web development.
+- 🌐 I’m currently studying Web development.
 
 ## 🤝 Contacts
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazalaa4727@gmail.com)
