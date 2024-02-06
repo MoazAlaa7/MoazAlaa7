@@ -2,7 +2,7 @@
 ### 👤 About me
 
 - 🎓 Undergraduate student pursuing Bachelor's degree in Computer Science.
-- 👨‍💻 Tech Enthusiast, I'm always eager to learn new technologies, and understand how things work under the hood.
+- 👨‍💻 Tech Enthusiast, I like to understand how things work under the hood 🤔.
 - 🌐 I’m currently studying Web development.
 
 ## 🤝 Contacts
