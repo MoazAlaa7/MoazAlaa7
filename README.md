@@ -4,7 +4,7 @@
 - 🎓 Graduate Software Engineer with solid fundamentals and strong debugging & problem solving
 skills.
 - I like building cool apps and understanding how things work under the hood 🤔.
-- 👨‍💻 I have good experience building Web Apps & RESTful APIs mostly using the MERN stack but, I also like learning new tools as required to tackle diverse tasks and projects.
+- 👨‍💻 I have good experience building Web Apps & RESTful APIs mostly using the MERN stack and, I also like learning new tools as required to tackle diverse tasks and projects.
 
 ## 🤝 Contacts
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazalaa4727@gmail.com)
