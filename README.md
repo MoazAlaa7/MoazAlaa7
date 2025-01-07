@@ -7,7 +7,7 @@ skills.
 - 👨‍💻 I have good experience building Web Apps & RESTful APIs mostly using the MERN stack and, I also like learning new tools as required to tackle diverse tasks and projects.
 
 ## 🤝 Contacts
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazalaa4727@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.moazalaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-alaa)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MoazAlaa7)
 
