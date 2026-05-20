@@ -1,9 +1,4 @@
 ## Hi there 👋, I'm Moaz
-### About me
-
-- I like building cool apps and understanding how things work under the hood 🤔.
-- I have good experience building Full Stack Web Apps
-- I'm always excited to learn new tools as required to tackle diverse tasks and projects.
 
 ## 🤝 Contacts
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.moazalaa@gmail.com)
