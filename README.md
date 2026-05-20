@@ -2,7 +2,7 @@
 ### About me
 
 - I like building cool apps and understanding how things work under the hood 🤔.
-- 👨‍💻 I have good experience building Full Stack Websites/Webapps
+- I have good experience building Full Stack Web Apps
 - I'm always excited to learn new tools as required to tackle diverse tasks and projects.
 
 ## 🤝 Contacts
